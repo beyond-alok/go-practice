@@ -1,0 +1,8 @@
+package Ques
+
+
+func Two() {
+	 
+}
+
+
