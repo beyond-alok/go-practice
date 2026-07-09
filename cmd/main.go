@@ -7,5 +7,6 @@ func main() {
 	// Ques.Two()
 	// Ques.Three()
 	// Ques.Four()
-	Ques.Five()
+	// Ques.Five()
+	Ques.Six()
 }
