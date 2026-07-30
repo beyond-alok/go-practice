@@ -8,5 +8,9 @@ func main() {
 	// Ques.Three()
 	// Ques.Four()
 	// Ques.Five()
-	Ques.Six()
+	// Ques.Six()
+	// Ques.Seven()
+	// Ques.Eight()
+	// Ques.Nine()
+	Ques.Ten()
 }
