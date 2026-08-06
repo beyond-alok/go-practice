@@ -12,5 +12,9 @@ func main() {
 	// Ques.Seven()
 	// Ques.Eight()
 	// Ques.Nine()
-	Ques.Ten()
+	// Ques.Ten()
+	// Ques.Eleven()
+	// Ques.Twelve()
+	// Ques.Thirdteen()
+	// Ques.Fourteen()
 }
