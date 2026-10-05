@@ -1,8 +1,15 @@
 package main
 
-import "github.com/beyond-alok/go101/goroutine/Ques"
+import (
+	"fmt"
+	"runtime"
+
+	basic "github.com/beyond-alok/go101/basics"
+)
 
 func main() {
+
+	fmt.Println("total logical processors on my machine :",runtime.NumCPU())
 	// Ques.One()
 	// Ques.Two()
 	// Ques.Three()
@@ -17,4 +24,7 @@ func main() {
 	// Ques.Twelve()
 	// Ques.Thirdteen()
 	// Ques.Fourteen()
+	// Ques.Fifteen()
+	basic.Test()
+
 }
